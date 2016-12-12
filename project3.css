@@ -1,0 +1,23 @@
+/*Juan Martinez*/
+
+h1 {color: red; font-family: comic sans MS; font-size: 300%;}
+h2 {color: red; font-family: comic sans MS; font-size: 300%;}
+h3{color: red; font-family: comic sans MS; font-size: 300%;}
+h4{color: black; font-family: comic sans MS; font-size: 150%;}
+.ul{color: OliveDrab ; font-family:comic sans MS; font-size:150%; }
+.background{background-color: black;}
+.background2{background-color: DarkSlateGrey;}
+.p1{color: OliveDrab ; font-family: comic sans MS; font-size: 150%; margin: auto; }
+.p2{color: OliveDrab; font-family: tahoma; width: 40%; float: left;}
+.p3{color:OliveDrab; font-family: tahoma; width: 40%; float: right;}
+.link {background-color: red;
+    border-radius: 12px ;
+    color: white;
+    padding: 15px 32px;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;}
+
+  .Photo{color:snow; font-family: tahoma;}
